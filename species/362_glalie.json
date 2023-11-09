@@ -404,6 +404,18 @@
               "sounds": []
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/glalie.png",
+              "sprite": "pixelmon:pokemon/362_glalie/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "steampunk",
+              "texture": "dzfile:mon/steampunk/glalie.png",
+              "sprite": "pixelmon:pokemon/362_glalie/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/362_glalie/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/362_glalie/all/base/shiny/sprite.png",
@@ -481,6 +493,18 @@
                   "pixelmon:pokemon/362_glalie/all/mega/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "steampunk",
+              "texture": "dzfile:mon/steampunk/glalie-mega.png",
+              "sprite": "pixelmon:pokemon/362_glalie/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/glalie-mega.png",
+              "sprite": "pixelmon:pokemon/362_glalie/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

@@ -478,6 +478,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/pikachu.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "drowned",
               "texture": "pixelmon:pokemon/025_pikachu/all/base/drowned/texture.png",
               "sprite": "pixelmon:pokemon/025_pikachu/all/base/drowned/sprite.png",

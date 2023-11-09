@@ -332,6 +332,12 @@
               ]
             },
             {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/pachirisu.png",
+              "sprite": "pixelmon:pokemon/417_pachirisu/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/417_pachirisu/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/417_pachirisu/all/base/shiny/sprite.png",

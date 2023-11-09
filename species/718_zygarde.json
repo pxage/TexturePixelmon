@@ -307,6 +307,24 @@
               ]
             },
             {
+              "name": "new_summer",
+              "texture": "dzfile:mon/n_summer/shinyzygarde.png",
+              "sprite": "pixelmon:pokemon/718_zygarde/all/complete/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/zygarde.png",
+              "sprite": "pixelmon:pokemon/718_zygarde/all/complete/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/zygarde.png",
+              "sprite": "pixelmon:pokemon/718_zygarde/all/fifty_percent/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/718_zygarde/all/fifty_percent/shiny/texture.png",
               "sprite": "pixelmon:pokemon/718_zygarde/all/fifty_percent/shiny/sprite.png",
@@ -373,6 +391,24 @@
               }
             },
             {
+              "name": "new_summer",
+              "texture": "dzfile:mon/n_summer/shinyzygarde.png",
+              "sprite": "pixelmon:pokemon/718_zygarde/all/complete/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/zygarde.png",
+              "sprite": "pixelmon:pokemon/718_zygarde/all/complete/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/zygarde-10_.png",
+              "sprite": "pixelmon:pokemon/718_zygarde/all/ten_percent/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/718_zygarde/all/ten_percent/shiny/texture.png",
               "sprite": "pixelmon:pokemon/718_zygarde/all/ten_percent/shiny/sprite.png",
@@ -417,6 +453,30 @@
               "sounds": [
                 "pixelmon.mob.zygarde.100"
               ]
+            },
+            {
+              "name": "new_summer",
+              "texture": "dzfile:mon/n_summer/shinyzygarde.png",
+              "sprite": "pixelmon:pokemon/718_zygarde/all/complete/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/zygarde.png",
+              "sprite": "pixelmon:pokemon/718_zygarde/all/complete/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/zygarde-complete.png",
+              "sprite": "pixelmon:pokemon/718_zygarde/all/complete/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/zygarde.png",
+              "sprite": "pixelmon:pokemon/718_zygarde/all/complete/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

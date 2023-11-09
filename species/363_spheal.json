@@ -434,6 +434,12 @@
               "particle": ""
             },
             {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/spheal-normal.png",
+              "sprite": "pixelmon:pokemon/363_spheal/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "online",
               "texture": "pixelmon:pokemon/363_spheal/all/base/online/texture.png",
               "sprite": "pixelmon:pokemon/363_spheal/all/base/online/sprite.png",

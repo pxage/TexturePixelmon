@@ -460,6 +460,12 @@
               ]
             },
             {
+              "name": "golden",
+              "texture": "dzfile:mon/n_golden/quagsire.png",
+              "sprite": "pixelmon:pokemon/195_quagsire/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/195_quagsire/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/195_quagsire/all/base/shiny/sprite.png",

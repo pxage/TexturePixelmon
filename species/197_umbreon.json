@@ -476,6 +476,18 @@
               "texture": "pixelmon:pokemon/197_umbreon/all/base/spirit/texture.png",
               "sprite": "pixelmon:pokemon/197_umbreon/all/base/spirit/sprite.png",
               "particle": ""
+            },
+            {
+              "name": "frostbite",
+              "texture": "dzfile:mon/frostbite/umbreon.png",
+              "sprite": "pixelmon:pokemon/197_umbreon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "equinox",
+              "texture": "dzfile:mon/equinox/umbreon.png",
+              "sprite": "pixelmon:pokemon/197_umbreon/all/base/spirit/sprite.png",
+              "particle": "arcanery:shiny"
             }
           ]
         }

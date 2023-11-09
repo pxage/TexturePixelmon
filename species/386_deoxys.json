@@ -524,6 +524,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/deoxys-normal.png",
+              "sprite": "pixelmon:pokemon/386_deoxys/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/386_deoxys/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/386_deoxys/all/base/shiny/sprite.png",
@@ -993,6 +999,12 @@
               }
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/deoxys-attack.png",
+              "sprite": "pixelmon:pokemon/386_deoxys/all/attack/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/386_deoxys/all/attack/shiny/texture.png",
               "sprite": "pixelmon:pokemon/386_deoxys/all/attack/shiny/sprite.png",
@@ -1432,6 +1444,12 @@
               }
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/deoxys-defense.png",
+              "sprite": "pixelmon:pokemon/386_deoxys/all/defense/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/386_deoxys/all/defense/shiny/texture.png",
               "sprite": "pixelmon:pokemon/386_deoxys/all/defense/shiny/sprite.png",
@@ -1869,6 +1887,12 @@
               }
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/deoxys-speed.png",
+              "sprite": "pixelmon:pokemon/386_deoxys/all/speed/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/386_deoxys/all/speed/shiny/texture.png",
               "sprite": "pixelmon:pokemon/386_deoxys/all/speed/shiny/sprite.png",
@@ -2304,6 +2328,12 @@
                 ],
                 "yRotation": 24.1
               }
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/deoxys-defense.png",
+              "sprite": "pixelmon:pokemon/386_deoxys/all/sus/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

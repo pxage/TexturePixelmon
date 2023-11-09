@@ -427,6 +427,12 @@
               ]
             },
             {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/tropius.png",
+              "sprite": "pixelmon:pokemon/357_tropius/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/357_tropius/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/357_tropius/all/base/shiny/sprite.png",

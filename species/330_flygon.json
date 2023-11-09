@@ -515,6 +515,36 @@
               ]
             },
             {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/flygon.png",
+              "sprite": "pixelmon:pokemon/330_flygon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/flygon.png",
+              "sprite": "pixelmon:pokemon/330_flygon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/flygon.png",
+              "sprite": "pixelmon:pokemon/330_flygon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/flygon.png",
+              "sprite": "pixelmon:pokemon/330_flygon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/flygon.png",
+              "sprite": "pixelmon:pokemon/330_flygon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/330_flygon/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/330_flygon/all/base/shiny/sprite.png",

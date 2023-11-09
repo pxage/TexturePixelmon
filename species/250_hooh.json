@@ -588,6 +588,24 @@
               "particle": ""
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/ho-oh.png",
+              "sprite": "pixelmon:pokemon/250_ho-oh/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/ho-oh.png",
+              "sprite": "pixelmon:pokemon/250_ho-oh/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/ho-oh.png",
+              "sprite": "pixelmon:pokemon/250_ho-oh/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "online",
               "texture": "pixelmon:pokemon/250_ho-oh/all/base/online/texture.png",
               "emissive": "pixelmon:pokemon/250_ho-oh/all/base/online/emissive.png",

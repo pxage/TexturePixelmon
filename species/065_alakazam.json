@@ -543,6 +543,12 @@
               ]
             },
             {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/alakazam.png",
+              "sprite": "pixelmon:pokemon/065_alakazam/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/065_alakazam/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/065_alakazam/all/base/shiny/sprite.png",
@@ -614,6 +620,12 @@
                   "pixelmon:pokemon/065_alakazam/all/mega/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/alakazam-mega.png",
+              "sprite": "pixelmon:pokemon/065_alakazam/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

@@ -325,7 +325,7 @@
       },
       "eggCycles": 120,
       "weight": 888.0,
-      "catchRate": 45,
+      "catchRate": 20,
       "malePercentage": -1,
       "evolutions": [],
       "evYields": {

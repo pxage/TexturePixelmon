@@ -315,6 +315,12 @@
               "sounds": []
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/mismagius.png",
+              "sprite": "pixelmon:pokemon/429_mismagius/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/429_mismagius/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/429_mismagius/all/base/shiny/sprite.png",

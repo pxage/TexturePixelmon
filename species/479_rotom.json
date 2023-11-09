@@ -349,6 +349,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/rotom-normal.png",
+              "sprite": "pixelmon:pokemon/479_rotom/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/479_rotom/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/479_rotom/all/base/shiny/sprite.png",
@@ -419,6 +425,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/rotom-heat.png",
+              "sprite": "pixelmon:pokemon/479_rotom/all/heat/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/479_rotom/all/heat/shiny/texture.png",
               "sprite": "pixelmon:pokemon/479_rotom/all/heat/shiny/sprite.png",
@@ -463,6 +475,12 @@
               "sounds": [
                 "pixelmon.mob.rotom"
               ]
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/rotom-wash.png",
+              "sprite": "pixelmon:pokemon/479_rotom/all/wash/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",
@@ -511,6 +529,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/rotom-frost.png",
+              "sprite": "pixelmon:pokemon/479_rotom/all/frost/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/479_rotom/all/frost/shiny/texture.png",
               "sprite": "pixelmon:pokemon/479_rotom/all/frost/shiny/sprite.png",
@@ -557,6 +581,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/rotom-fan.png",
+              "sprite": "pixelmon:pokemon/479_rotom/all/fan/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/479_rotom/all/fan/shiny/texture.png",
               "sprite": "pixelmon:pokemon/479_rotom/all/fan/shiny/sprite.png",
@@ -601,6 +631,12 @@
               "sounds": [
                 "pixelmon.mob.rotom"
               ]
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/rotom-mow.png",
+              "sprite": "pixelmon:pokemon/479_rotom/all/mow/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

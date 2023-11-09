@@ -366,6 +366,30 @@
               ]
             },
             {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/tapukoko.png",
+              "sprite": "pixelmon:pokemon/785_tapukoko/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/tapukoko.png",
+              "sprite": "pixelmon:pokemon/785_tapukoko/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/tapukoko.png",
+              "sprite": "pixelmon:pokemon/785_tapukoko/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cosmic",
+              "texture": "dzfile:mon/cosmic/tapukoko.png",
+              "sprite": "pixelmon:pokemon/785_tapukoko/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/785_tapukoko/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/785_tapukoko/all/base/shiny/sprite.png",

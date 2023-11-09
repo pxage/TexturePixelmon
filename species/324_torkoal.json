@@ -435,6 +435,12 @@
               ]
             },
             {
+              "name": "steampunk",
+              "texture": "dzfile:mon/steampunk/torkoal.png",
+              "sprite": "pixelmon:pokemon/324_torkoal/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/324_torkoal/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/324_torkoal/all/base/shiny/sprite.png",

@@ -526,6 +526,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/blastoise.png",
+              "sprite": "pixelmon:pokemon/009_blastoise/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "zombie",
               "texture": "pixelmon:pokemon/009_blastoise/all/base/zombie/texture.png",
               "sprite": "pixelmon:pokemon/009_blastoise/all/base/zombie/sprite.png",
@@ -606,6 +612,12 @@
                   "pixelmon:pokemon/009_blastoise/all/mega/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/blastoise-mega.png",
+              "sprite": "pixelmon:pokemon/009_blastoise/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

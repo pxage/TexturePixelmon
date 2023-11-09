@@ -263,6 +263,17 @@
               ]
             },
             {
+              "name": "jiangjun",
+              "texture": "dzfile:mon/n_jiangjun/shinyzarude.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/shiny/sprite.png"
+            },
+            {
+              "name": "gold_jiangjun",
+              "texture": "dzfile:mon/n_jiangjun/zarude.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/893_zarude/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/893_zarude/all/base/shiny/sprite.png",

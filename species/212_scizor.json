@@ -489,6 +489,18 @@
               ]
             },
             {
+              "name": "shadow",
+              "texture": "dzfile:mon/shadow/scizor.png",
+              "sprite": "pixelmon:pokemon/212_scizor/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/scizor.png",
+              "sprite": "pixelmon:pokemon/212_scizor/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/212_scizor/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/212_scizor/all/base/shiny/sprite.png",
@@ -563,6 +575,18 @@
                   "pixelmon:pokemon/212_scizor/all/mega/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "shadow",
+              "texture": "dzfile:mon/shadow/scizor_mega.png",
+              "sprite": "pixelmon:pokemon/212_scizor/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/scizor-mega.png",
+              "sprite": "pixelmon:pokemon/212_scizor/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

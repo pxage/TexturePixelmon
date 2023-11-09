@@ -360,6 +360,18 @@
               "sounds": []
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/aurorus.png",
+              "sprite": "pixelmon:pokemon/699_aurorus/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/aurorus.png",
+              "sprite": "pixelmon:pokemon/699_aurorus/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/699_aurorus/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/699_aurorus/all/base/shiny/sprite.png",

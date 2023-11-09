@@ -423,6 +423,12 @@
               ]
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/misdreavus.png",
+              "sprite": "pixelmon:pokemon/200_misdreavus/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/200_misdreavus/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/200_misdreavus/all/base/shiny/sprite.png",

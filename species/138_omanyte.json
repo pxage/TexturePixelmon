@@ -444,6 +444,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/omanyte.png",
+              "sprite": "pixelmon:pokemon/138_omanyte/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "summer",
               "sprite": "pixelmon:pokemon/138_omanyte/all/base/summer/sprite.png",
               "particle": "",

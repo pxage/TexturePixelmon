@@ -354,8 +354,20 @@
               ]
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/zorua.png",
+              "sprite": "pixelmon:pokemon/570_zorua/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/570_zorua/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/570_zorua/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/zorua.png",
               "sprite": "pixelmon:pokemon/570_zorua/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
             },

@@ -356,6 +356,18 @@
               ]
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/hippowdonmale.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "steampunk",
+              "texture": "dzfile:mon/steampunk/hippowdonmale.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/450_hippowdon/male/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/450_hippowdon/male/base/shiny/sprite.png",
@@ -377,6 +389,18 @@
                   "pixelmon:pokemon/450_hippowdon/female/base/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/hippowdonfemale.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "steampunk",
+              "texture": "dzfile:mon/steampunk/hippowdonfemale.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

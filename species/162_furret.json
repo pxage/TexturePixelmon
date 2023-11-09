@@ -451,6 +451,18 @@
               ]
             },
             {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/furret.png",
+              "sprite": "pixelmon:pokemon/162_furret/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/furret.png",
+              "sprite": "pixelmon:pokemon/162_furret/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/162_furret/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/162_furret/all/base/shiny/sprite.png",

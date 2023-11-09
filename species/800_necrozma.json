@@ -356,6 +356,12 @@
               ]
             },
             {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/necrozma.png",
+              "sprite": "pixelmon:pokemon/800_necrozma/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/800_necrozma/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/800_necrozma/all/base/shiny/sprite.png",
@@ -438,6 +444,12 @@
               ]
             },
             {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/necrozma_dusk_mane.png",
+              "sprite": "pixelmon:pokemon/800_necrozma/all/dusk/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/800_necrozma/all/dusk/shiny/texture.png",
               "sprite": "pixelmon:pokemon/800_necrozma/all/dusk/shiny/sprite.png",
@@ -488,6 +500,12 @@
               "sounds": [
                 "pixelmon.mob.necrozma.dawn"
               ]
+            },
+            {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/necrozma_dawn_wings.png",
+              "sprite": "pixelmon:pokemon/800_necrozma/all/dawn/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",
@@ -542,6 +560,12 @@
                   "pixelmon:pokemon/800_necrozma/all/ultra/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/necrozma_ultra.png",
+              "sprite": "pixelmon:pokemon/800_necrozma/all/ultra/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

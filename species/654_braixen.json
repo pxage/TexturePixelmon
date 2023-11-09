@@ -293,6 +293,12 @@
               ]
             },
             {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/braixen.png",
+              "sprite": "pixelmon:pokemon/654_braixen/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/654_braixen/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/654_braixen/all/base/shiny/sprite.png",

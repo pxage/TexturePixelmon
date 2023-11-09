@@ -274,7 +274,7 @@
       },
       "eggCycles": 41,
       "weight": 17.5,
-      "catchRate": 45,
+      "catchRate": 25,
       "malePercentage": 50,
       "evolutions": [
         {
@@ -470,7 +470,7 @@
       },
       "eggCycles": 41,
       "weight": 17.5,
-      "catchRate": 45,
+      "catchRate": 25,
       "malePercentage": 50,
       "evolutions": [
         {

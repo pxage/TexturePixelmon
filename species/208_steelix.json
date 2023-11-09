@@ -511,6 +511,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/steelix.png",
+              "sprite": "pixelmon:pokemon/208_steelix/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "crystal",
               "texture": "pixelmon:pokemon/208_steelix/all/base/crystal/texture.png",
               "sprite": "pixelmon:pokemon/208_steelix/all/base/crystal/sprite.png",
@@ -583,6 +589,12 @@
                   "pixelmon:pokemon/208_steelix/all/mega/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/steelix-mega.png",
+              "sprite": "pixelmon:pokemon/208_steelix/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

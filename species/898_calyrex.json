@@ -226,6 +226,12 @@
               ]
             },
             {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/calyrex-ordinary.png",
+              "sprite": "pixelmon:pokemon/898_calyrex/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/898_calyrex/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/898_calyrex/all/base/shiny/sprite.png",
@@ -497,6 +503,12 @@
               ]
             },
             {
+              "name": "summer",
+              "texture": "pixelmon:pokemon/898_calyrex/all/icerider/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/898_calyrex/all/icerider/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/898_calyrex/all/icerider/shiny/texture.png",
               "sprite": "pixelmon:pokemon/898_calyrex/all/icerider/shiny/sprite.png",
@@ -737,6 +749,12 @@
               "sounds": [
                 "pixelmon.mob.calyrex.shadow_rider"
               ]
+            },
+            {
+              "name": "summer",
+              "texture": "pixelmon:pokemon/898_calyrex/all/shadowrider/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/898_calyrex/all/shadowrider/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

@@ -315,6 +315,24 @@
               ]
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/incineroar.png",
+              "sprite": "pixelmon:pokemon/727_incineroar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "golden",
+              "texture": "dzfile:mon/n_golden/incineroar.png",
+              "sprite": "pixelmon:pokemon/727_incineroar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/incineroar.png",
+              "sprite": "pixelmon:pokemon/727_incineroar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/727_incineroar/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/727_incineroar/all/base/shiny/sprite.png",

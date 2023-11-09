@@ -256,6 +256,12 @@
               "sounds": []
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/torracat.png",
+              "sprite": "pixelmon:pokemon/726_torracat/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/726_torracat/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/726_torracat/all/base/shiny/sprite.png",

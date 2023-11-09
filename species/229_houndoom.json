@@ -451,6 +451,12 @@
               ]
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/houndoom.png",
+              "sprite": "pixelmon:pokemon/229_houndoom/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/229_houndoom/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/229_houndoom/all/base/shiny/sprite.png",
@@ -529,6 +535,12 @@
                   "pixelmon:pokemon/229_houndoom/all/mega/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/houndoom-mega.png",
+              "sprite": "pixelmon:pokemon/229_houndoom/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

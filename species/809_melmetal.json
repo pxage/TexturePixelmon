@@ -233,6 +233,12 @@
               ]
             },
             {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/melmetal.png",
+              "sprite": "pixelmon:pokemon/809_melmetal/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/809_melmetal/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/809_melmetal/all/base/shiny/sprite.png",

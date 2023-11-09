@@ -482,6 +482,24 @@
               ]
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/jirachi.png",
+              "sprite": "pixelmon:pokemon/385_jirachi/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/jirachi.png",
+              "sprite": "pixelmon:pokemon/385_jirachi/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "celestial",
+              "texture": "dzfile:mon/celestial/jirachi.png",
+              "sprite": "pixelmon:pokemon/385_jirachi/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/385_jirachi/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/385_jirachi/all/base/shiny/sprite.png",

@@ -493,6 +493,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/hydreigon.png",
+              "sprite": "pixelmon:pokemon/635_hydreigon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "ashen",
               "texture": "pixelmon:pokemon/635_hydreigon/all/base/ashen/texture.png",
               "sprite": "pixelmon:pokemon/635_hydreigon/all/base/ashen/sprite.png",
@@ -525,7 +531,7 @@
       },
       "eggCycles": 41,
       "weight": 160.0,
-      "catchRate": 45,
+      "catchRate": 11,
       "malePercentage": 50,
       "evolutions": [
 

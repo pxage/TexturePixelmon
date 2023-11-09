@@ -370,7 +370,7 @@
       },
       "eggCycles": 120,
       "weight": 999.9,
-      "catchRate": 45,
+      "catchRate": 20,
       "malePercentage": -1,
       "evolutions": [
 

@@ -245,6 +245,12 @@
               ]
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/rockruff.png",
+              "sprite": "pixelmon:pokemon/744_rockruff/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/744_rockruff/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/744_rockruff/all/base/shiny/sprite.png",

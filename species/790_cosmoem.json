@@ -101,6 +101,12 @@
               "sounds": []
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/cosmoem.png",
+              "sprite": "pixelmon:pokemon/790_cosmoem/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/790_cosmoem/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/790_cosmoem/all/base/shiny/sprite.png",

@@ -359,6 +359,18 @@
               ]
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/lunala.png",
+              "sprite": "pixelmon:pokemon/792_lunala/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/Lunala.png",
+              "sprite": "pixelmon:pokemon/792_lunala/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/792_lunala/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/792_lunala/all/base/shiny/sprite.png",
@@ -417,6 +429,18 @@
                   "pixelmon:pokemon/792_lunala/all/base/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "spirit",
+              "texture": "pixelmon:pokemon/792_lunala/all/fullmoon/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/792_lunala/all/fullmoon/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "nightmare",
+              "texture": "pixelmon:pokemon/792_lunala/all/fullmoon/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/792_lunala/all/fullmoon/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

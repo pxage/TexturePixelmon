@@ -383,6 +383,12 @@
               ]
             },
             {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/buneary.png",
+              "sprite": "pixelmon:pokemon/427_buneary/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/427_buneary/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/427_buneary/all/base/shiny/sprite.png",

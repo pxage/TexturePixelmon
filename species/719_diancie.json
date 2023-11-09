@@ -329,6 +329,12 @@
               "sounds": []
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/diancie.png",
+              "sprite": "pixelmon:pokemon/719_diancie/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/719_diancie/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/719_diancie/all/base/shiny/sprite.png",
@@ -400,6 +406,12 @@
                   "pixelmon:pokemon/719_diancie/all/mega/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/diancie-mega.png",
+              "sprite": "pixelmon:pokemon/719_diancie/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

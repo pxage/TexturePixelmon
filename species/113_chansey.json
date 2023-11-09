@@ -640,6 +640,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "golden",
+              "texture": "dzfile:mon/n_golden/chansey.png",
+              "sprite": "pixelmon:pokemon/113_chansey/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "valencian",
               "texture": "pixelmon:pokemon/113_chansey/all/base/valencian/texture.png",
               "sprite": "pixelmon:pokemon/113_chansey/all/base/valencian/sprite.png",

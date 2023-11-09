@@ -399,6 +399,18 @@
               "texture": "pixelmon:pokemon/471_glaceon/all/base/spirit/texture.png",
               "sprite": "pixelmon:pokemon/471_glaceon/all/base/spirit/sprite.png",
               "particle": ""
+            },
+            {
+              "name": "frostbite",
+              "texture": "dzfile:mon/frostbite/glaceon.png",
+              "sprite": "pixelmon:pokemon/471_glaceon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "equinox",
+              "texture": "dzfile:mon/equinox/glaceon.png",
+              "sprite": "pixelmon:pokemon/471_glaceon/all/base/spirit/sprite.png",
+              "particle": "arcanery:shiny"
             }
           ]
         }

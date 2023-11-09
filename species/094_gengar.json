@@ -559,6 +559,36 @@
               ]
             },
             {
+              "name": "venom",
+              "texture": "dzfile:mon/n_venom/gengar.png",
+              "sprite": "pixelmon:pokemon/094_gengar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "shadow",
+              "texture": "dzfile:mon/shadow/gengar.png",
+              "sprite": "pixelmon:pokemon/094_gengar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/gengar.png",
+              "sprite": "pixelmon:pokemon/094_gengar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/gengar.png",
+              "sprite": "pixelmon:pokemon/094_gengar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "invisible",
+              "texture": "dzfile:mon/invisible/gengar.png",
+              "sprite": "pixelmon:pokemon/094_gengar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/094_gengar/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/094_gengar/all/base/shiny/sprite.png",
@@ -649,6 +679,36 @@
               }
             },
             {
+              "name": "venom",
+              "texture": "dzfile:mon/n_venom/gengar-mega.png",
+              "sprite": "pixelmon:pokemon/094_gengar/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/gengar-mega.png",
+              "sprite": "pixelmon:pokemon/094_gengar/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/gengar-mega.png",
+              "sprite": "pixelmon:pokemon/094_gengar/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "invisible",
+              "texture": "dzfile:mon/invisible/gengar-mega.png",
+              "sprite": "pixelmon:pokemon/094_gengar/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "shadow",
+              "texture": "dzfile:mon/shadow/gengar_mega.png",
+              "sprite": "pixelmon:pokemon/094_gengar/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/094_gengar/all/mega/shiny/texture.png",
               "sprite": "pixelmon:pokemon/094_gengar/all/mega/shiny/sprite.png",
@@ -678,6 +738,12 @@
                   "pixelmon:pokemon/094_gengar/all/gmax/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "venom",
+              "texture": "dzfile:mon/n_venom/gengar-gmax.png",
+              "sprite": "pixelmon:pokemon/094_gengar/all/gmax/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

@@ -502,6 +502,12 @@
               ]
             },
             {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/palkia.png",
+              "sprite": "pixelmon:pokemon/484_palkia/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/484_palkia/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/484_palkia/all/base/shiny/sprite.png",

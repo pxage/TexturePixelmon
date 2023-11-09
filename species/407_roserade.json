@@ -311,8 +311,20 @@
               "sounds": []
             },
             {
+              "name": "golden",
+              "texture": "dzfile:mon/n_golden/roserade.png",
+              "sprite": "pixelmon:pokemon/407_roserade/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/407_roserade/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/407_roserade/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/roserade.png",
               "sprite": "pixelmon:pokemon/407_roserade/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
             },

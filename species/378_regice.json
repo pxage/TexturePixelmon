@@ -443,6 +443,12 @@
               ]
             },
             {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/regice.png",
+              "sprite": "pixelmon:pokemon/378_regice/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/378_regice/all/base/shiny/texture.png",
               "emissive": "pixelmon:pokemon/378_regice/all/base/shiny/emissive.png",

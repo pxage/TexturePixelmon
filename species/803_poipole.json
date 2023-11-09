@@ -218,6 +218,18 @@
               ]
             },
             {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/Poipole.png",
+              "sprite": "pixelmon:pokemon/803_poipole/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/poipole.png",
+              "sprite": "pixelmon:pokemon/803_poipole/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/803_poipole/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/803_poipole/all/base/shiny/sprite.png",
@@ -242,7 +254,7 @@
       },
       "eggCycles": 120,
       "weight": 1.8,
-      "catchRate": 45,
+      "catchRate": 20,
       "malePercentage": -1,
       "evolutions": [
         {

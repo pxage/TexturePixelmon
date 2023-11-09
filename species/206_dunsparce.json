@@ -555,6 +555,18 @@
               ]
             },
             {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/dunsparce.png",
+              "sprite": "pixelmon:pokemon/206_dunsparce/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/dunsparce.png",
+              "sprite": "pixelmon:pokemon/206_dunsparce/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/206_dunsparce/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/206_dunsparce/all/base/shiny/sprite.png",
@@ -577,7 +589,7 @@
         "canHaveFactor": false,
         "canGigantamax": false
       },
-      "eggCycles": 20,
+      "eggCycles": 21,
       "weight": 14.0,
       "catchRate": 190,
       "malePercentage": 50,

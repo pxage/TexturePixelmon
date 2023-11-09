@@ -491,6 +491,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/celebi.png",
+              "sprite": "pixelmon:pokemon/251_celebi/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "alien",
               "texture": "pixelmon:pokemon/251_celebi/all/base/alien/texture.png",
               "sprite": "pixelmon:pokemon/251_celebi/all/base/alien/sprite.png",

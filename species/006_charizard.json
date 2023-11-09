@@ -599,6 +599,18 @@
               ]
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/charizard.png",
+              "sprite": "pixelmon:pokemon/006_charizard/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/charizard.png",
+              "sprite": "pixelmon:pokemon/006_charizard/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/006_charizard/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/006_charizard/all/base/shiny/sprite.png",
@@ -697,6 +709,18 @@
               }
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/charizard-mega-x.png",
+              "sprite": "pixelmon:pokemon/006_charizard/all/megax/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/charizard-mega-x.png",
+              "sprite": "pixelmon:pokemon/006_charizard/all/megax/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/006_charizard/all/megax/shiny/texture.png",
               "sprite": "pixelmon:pokemon/006_charizard/all/megax/shiny/sprite.png",
@@ -749,6 +773,18 @@
                 ],
                 "yRotation": 24.12
               }
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/charizard-mega-y.png",
+              "sprite": "pixelmon:pokemon/006_charizard/all/megay/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/charizard-mega-y.png",
+              "sprite": "pixelmon:pokemon/006_charizard/all/megay/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

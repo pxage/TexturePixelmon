@@ -477,6 +477,18 @@
               ]
             },
             {
+              "name": "shadow",
+              "texture": "dzfile:mon/shadow/lucario.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "anubian",
+              "texture": "dzfile:mon/n_anubian/lucario.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/448_lucario/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/448_lucario/all/base/shiny/sprite.png",
@@ -565,6 +577,18 @@
                 ],
                 "yRotation": 24.2
               }
+            },
+            {
+              "name": "shadow",
+              "texture": "dzfile:mon/shadow/lucario_mega.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "anubian",
+              "texture": "dzfile:mon/n_anubian/lucario-mega.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

@@ -404,6 +404,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "retro",
+              "texture": "dzfile:mon/retro/porygon-z.png",
+              "sprite": "pixelmon:pokemon/474_porygon-z/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "alter",
               "texture": "pixelmon:pokemon/474_porygon-z/all/base/alter/texture.png",
               "sprite": "pixelmon:pokemon/474_porygon-z/all/base/alter/sprite.png",

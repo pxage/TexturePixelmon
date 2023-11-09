@@ -307,8 +307,20 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/greninja.png",
+              "sprite": "pixelmon:pokemon/658_greninja/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/658_greninja/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/658_greninja/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/greninja.png",
               "sprite": "pixelmon:pokemon/658_greninja/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
             },
@@ -418,6 +430,12 @@
             {
               "name": "shiny",
               "texture": "pixelmon:pokemon/658_greninja/all/ash/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/658_greninja/all/ash/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/greninja-ash.png",
               "sprite": "pixelmon:pokemon/658_greninja/all/ash/shiny/sprite.png",
               "particle": "arcanery:shiny"
             },

@@ -408,6 +408,12 @@
               ]
             },
             {
+              "name": "anubian",
+              "texture": "dzfile:mon/n_anubian/riolu.png",
+              "sprite": "pixelmon:pokemon/447_riolu/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/447_riolu/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/447_riolu/all/base/shiny/sprite.png",

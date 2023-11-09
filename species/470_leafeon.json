@@ -423,6 +423,18 @@
               "texture": "pixelmon:pokemon/470_leafeon/all/base/spirit/texture.png",
               "sprite": "pixelmon:pokemon/470_leafeon/all/base/spirit/sprite.png",
               "particle": ""
+            },
+            {
+              "name": "frostbite",
+              "texture": "dzfile:mon/frostbite/leafeon.png",
+              "sprite": "pixelmon:pokemon/470_leafeon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "equinox",
+              "texture": "dzfile:mon/equinox/leafeon.png",
+              "sprite": "pixelmon:pokemon/470_leafeon/all/base/spirit/sprite.png",
+              "particle": "arcanery:shiny"
             }
           ]
         }

@@ -455,6 +455,12 @@
               ]
             },
             {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/dragonair.png",
+              "sprite": "pixelmon:pokemon/148_dragonair/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/148_dragonair/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/148_dragonair/all/base/shiny/sprite.png",
@@ -482,7 +488,7 @@
       },
       "eggCycles": 41,
       "weight": 16.5,
-      "catchRate": 45,
+      "catchRate": 20,
       "malePercentage": 50,
       "evolutions": [
         {

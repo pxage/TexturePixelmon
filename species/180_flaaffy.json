@@ -386,6 +386,12 @@
               ]
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/flaaffy.png",
+              "sprite": "pixelmon:pokemon/180_flaaffy/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/180_flaaffy/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/180_flaaffy/all/base/shiny/sprite.png",

@@ -240,6 +240,24 @@
               ]
             },
             {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/kartana.png",
+              "sprite": "pixelmon:pokemon/798_kartana/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/Kartana.png",
+              "sprite": "pixelmon:pokemon/798_kartana/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "frostblade",
+              "texture": "dzfile:mon/frostbite/kartana.png",
+              "sprite": "pixelmon:pokemon/798_kartana/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/798_kartana/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/798_kartana/all/base/shiny/sprite.png",
@@ -265,7 +283,7 @@
       },
       "eggCycles": 120,
       "weight": 0.1,
-      "catchRate": 45,
+      "catchRate": 20,
       "malePercentage": -1,
       "evolutions": [],
       "evYields": {

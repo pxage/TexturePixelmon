@@ -322,6 +322,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/kommo-o.png",
+              "sprite": "pixelmon:pokemon/784_kommo-o/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/784_kommo-o/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/784_kommo-o/all/base/shiny/sprite.png",
@@ -350,7 +356,7 @@
       },
       "eggCycles": 40,
       "weight": 78.2,
-      "catchRate": 45,
+      "catchRate": 15,
       "malePercentage": 50,
       "evolutions": [],
       "evYields": {

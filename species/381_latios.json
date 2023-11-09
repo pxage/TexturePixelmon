@@ -572,6 +572,24 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/latios.png",
+              "sprite": "pixelmon:pokemon/381_latios/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "golden",
+              "texture": "dzfile:mon/n_golden/latios.png",
+              "sprite": "pixelmon:pokemon/381_latios/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/latios.png",
+              "sprite": "pixelmon:pokemon/381_latios/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/381_latios/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/381_latios/all/base/shiny/sprite.png",
@@ -641,6 +659,24 @@
                   "pixelmon:pokemon/381_latios/all/mega/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/latios-mega.png",
+              "sprite": "pixelmon:pokemon/381_latios/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "golden",
+              "texture": "pixelmon:pokemon/381_latios/all/mega/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/381_latios/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/latios-mega.png",
+              "sprite": "pixelmon:pokemon/381_latios/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

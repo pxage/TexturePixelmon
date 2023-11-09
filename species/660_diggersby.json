@@ -351,6 +351,12 @@
               ]
             },
             {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/diggersby.png",
+              "sprite": "pixelmon:pokemon/660_diggersby/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/660_diggersby/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/660_diggersby/all/base/shiny/sprite.png",

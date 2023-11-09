@@ -468,6 +468,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/omastar.png",
+              "sprite": "pixelmon:pokemon/139_omastar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "drowned",
               "texture": "pixelmon:pokemon/139_omastar/all/base/drowned/texture.png",
               "sprite": "pixelmon:pokemon/139_omastar/all/base/drowned/sprite.png",

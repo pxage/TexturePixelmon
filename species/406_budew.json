@@ -271,6 +271,12 @@
               "sounds": []
             },
             {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/budew.png",
+              "sprite": "pixelmon:pokemon/406_budew/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/406_budew/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/406_budew/all/base/shiny/sprite.png",

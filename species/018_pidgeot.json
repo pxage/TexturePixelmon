@@ -433,6 +433,18 @@
               ]
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/pidgeot.png",
+              "sprite": "pixelmon:pokemon/018_pidgeot/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/pidgeot.png",
+              "sprite": "pixelmon:pokemon/018_pidgeot/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/018_pidgeot/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/018_pidgeot/all/base/shiny/sprite.png",
@@ -520,6 +532,18 @@
                 ],
                 "yRotation": 41
               }
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/pidgeot-mega.png",
+              "sprite": "pixelmon:pokemon/018_pidgeot/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/pidgeot-mega.png",
+              "sprite": "pixelmon:pokemon/018_pidgeot/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

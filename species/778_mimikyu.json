@@ -274,6 +274,24 @@
               ]
             },
             {
+              "name": "invisible",
+              "texture": "dzfile:mon/invisible/mimikyu.png",
+              "sprite": "pixelmon:pokemon/778_mimikyu/all/disguised/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/mimikyu.png",
+              "sprite": "pixelmon:pokemon/778_mimikyu/all/disguised/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/mimikyu.png",
+              "sprite": "pixelmon:pokemon/778_mimikyu/all/disguised/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/778_mimikyu/all/disguised/shiny/texture.png",
               "sprite": "pixelmon:pokemon/778_mimikyu/all/disguised/shiny/sprite.png",
@@ -332,6 +350,24 @@
                   "pixelmon:pokemon/778_mimikyu/all/busted/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "invisible",
+              "texture": "dzfile:mon/invisible/mimikyu.png",
+              "sprite": "pixelmon:pokemon/778_mimikyu/all/busted/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/mimikyu.png",
+              "sprite": "pixelmon:pokemon/778_mimikyu/all/busted/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/mimikyu.png",
+              "sprite": "pixelmon:pokemon/778_mimikyu/all/busted/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

@@ -320,6 +320,12 @@
               ]
             },
             {
+              "name": "shadow",
+              "texture": "dzfile:mon/shadow/goodra.png",
+              "sprite": "pixelmon:pokemon/706_goodra/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/706_goodra/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/706_goodra/all/base/shiny/sprite.png",
@@ -347,7 +353,7 @@
       },
       "eggCycles": 41,
       "weight": 150.5,
-      "catchRate": 45,
+      "catchRate": 15,
       "malePercentage": 50,
       "evolutions": [],
       "evYields": {
@@ -548,7 +554,7 @@
       },
       "eggCycles": 41,
       "weight": 334.1,
-      "catchRate": 45,
+      "catchRate": 15,
       "malePercentage": 50,
       "evolutions": [],
       "evYields": {

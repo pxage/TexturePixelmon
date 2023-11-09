@@ -364,6 +364,12 @@
               "sounds": []
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/poochyena.png",
+              "sprite": "pixelmon:pokemon/261_poochyena/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/261_poochyena/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/261_poochyena/all/base/shiny/sprite.png",

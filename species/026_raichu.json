@@ -444,6 +444,12 @@
               ]
             },
             {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/raichu-normal.png",
+              "sprite": "pixelmon:pokemon/026_raichu/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/026_raichu/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/026_raichu/all/base/shiny/sprite.png",
@@ -720,6 +726,12 @@
                   "pixelmon:pokemon/026_raichu/all/alolan/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/raichu-alola.png",
+              "sprite": "pixelmon:pokemon/026_raichu/all/alolan/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

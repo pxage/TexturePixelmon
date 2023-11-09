@@ -224,6 +224,12 @@
               ]
             },
             {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/flapple.png",
+              "sprite": "pixelmon:pokemon/841_flapple/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/841_flapple/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/841_flapple/all/base/shiny/sprite.png",
@@ -286,6 +292,12 @@
                   "pixelmon:pokemon/841_flapple/all/gmax/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "summer",
+              "texture": "pixelmon:pokemon/841_flapple/all/gmax/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/841_flapple/all/gmax/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

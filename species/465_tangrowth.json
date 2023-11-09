@@ -431,6 +431,12 @@
               ]
             },
             {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/Tangrowth.png",
+              "sprite": "pixelmon:pokemon/465_tangrowth/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/465_tangrowth/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/465_tangrowth/all/base/shiny/sprite.png",

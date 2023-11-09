@@ -353,6 +353,18 @@
               ]
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/spirit/talonflame.png",
+              "sprite": "pixelmon:pokemon/663_talonflame/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/talonflame.png",
+              "sprite": "pixelmon:pokemon/663_talonflame/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/663_talonflame/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/663_talonflame/all/base/shiny/sprite.png",

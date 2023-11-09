@@ -469,6 +469,12 @@
               ]
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/feraligatr.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/160_feraligatr/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/160_feraligatr/all/base/shiny/sprite.png",

@@ -287,6 +287,12 @@
               "particle": ""
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/feebas.png",
+              "sprite": "pixelmon:pokemon/349_feebas/all/base/karp/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "karp",
               "texture": "pixelmon:pokemon/349_feebas/all/base/karp/texture.png",
               "sprite": "pixelmon:pokemon/349_feebas/all/base/karp/sprite.png",

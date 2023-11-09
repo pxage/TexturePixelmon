@@ -107,6 +107,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/ditto.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "zombie",
               "texture": "pixelmon:pokemon/132_ditto/all/base/zombie/texture.png",
               "sprite": "pixelmon:pokemon/132_ditto/all/base/zombie/sprite.png",

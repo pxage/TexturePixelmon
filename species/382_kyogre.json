@@ -409,6 +409,24 @@
               ]
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/kyogre-normal.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/kyogre.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/kyogre-normal.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/382_kyogre/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/382_kyogre/all/base/shiny/sprite.png",
@@ -477,6 +495,24 @@
               "sounds": [
                 "pixelmon.mob.kyogre.primal"
               ]
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/kyogre-primal.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/kyogre_primal.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/kyogre-primal.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

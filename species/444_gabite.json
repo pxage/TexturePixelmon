@@ -370,6 +370,18 @@
               ]
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/gabite.png",
+              "sprite": "pixelmon:pokemon/444_gabite/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "frostbite",
+              "texture": "dzfile:mon/frostbite/gabite.png",
+              "sprite": "pixelmon:pokemon/444_gabite/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/444_gabite/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/444_gabite/all/base/shiny/sprite.png",
@@ -398,7 +410,7 @@
       },
       "eggCycles": 41,
       "weight": 56.0,
-      "catchRate": 45,
+      "catchRate": 21,
       "malePercentage": 50,
       "evolutions": [
         {

@@ -398,6 +398,18 @@
               ]
             },
             {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/dodrio.png",
+              "sprite": "pixelmon:pokemon/085_dodrio/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "new_summer",
+              "texture": "dzfile:mon/n_summer/shinydodrio.png",
+              "sprite": "pixelmon:pokemon/085_dodrio/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/085_dodrio/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/085_dodrio/all/base/shiny/sprite.png",

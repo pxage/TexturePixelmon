@@ -553,8 +553,44 @@
               ]
             },
             {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/Rayquaza.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/rayquaza.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/384_rayquaza/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/rayquaza.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/rayquaza.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "gemstone",
+              "texture": "dzfile:mon/gemstone/rayquaza.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/rayquaza.png",
               "sprite": "pixelmon:pokemon/384_rayquaza/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
             },
@@ -638,6 +674,42 @@
               "sounds": [
                 "pixelmon.mob.rayquaza.mega"
               ]
+            },
+            {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/rayquaza_mega.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/rayquaza-mega.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/rayquaza-mega.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/rayquaza-mega.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "gemstone",
+              "texture": "dzfile:mon/gemstone/rayquaza-mega.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/rayquaza-mega.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

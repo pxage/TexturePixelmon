@@ -283,6 +283,17 @@
               ]
             },
             {
+              "name": "onisame",
+              "texture": "dzfile:mon/n_onisame/shinymarshadow.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/shiny/sprite.png"
+            },
+            {
+              "name": "onisame_limited",
+              "texture": "dzfile:mon/n_onisame/marshadow.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/802_marshadow/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/802_marshadow/all/base/shiny/sprite.png",
@@ -334,6 +345,17 @@
                 ],
                 "rotateAngleX": 0
               }
+            },
+            {
+              "name": "onisame",
+              "texture": "dzfile:mon/n_onisame/shinymarshadow-zenith.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/zenith/shiny/sprite.png"
+            },
+            {
+              "name": "onisame_limited",
+              "texture": "dzfile:mon/n_onisame/marshadow-zenith.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/zenith/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

@@ -112,6 +112,12 @@
               ]
             },
             {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/applin.png",
+              "sprite": "pixelmon:pokemon/840_applin/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/840_applin/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/840_applin/all/base/shiny/sprite.png",

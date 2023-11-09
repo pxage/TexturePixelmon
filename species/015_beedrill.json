@@ -444,6 +444,12 @@
               ]
             },
             {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/beedrill.png",
+              "sprite": "pixelmon:pokemon/015_beedrill/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/015_beedrill/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/015_beedrill/all/base/shiny/sprite.png",
@@ -526,6 +532,12 @@
                   "pixelmon:pokemon/015_beedrill/all/mega/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/beedrill-mega.png",
+              "sprite": "pixelmon:pokemon/015_beedrill/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

@@ -418,6 +418,18 @@
               ]
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/ampharos.png",
+              "sprite": "pixelmon:pokemon/181_ampharos/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/ampharos.png",
+              "sprite": "pixelmon:pokemon/181_ampharos/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/181_ampharos/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/181_ampharos/all/base/shiny/sprite.png",
@@ -494,6 +506,18 @@
                   "pixelmon:pokemon/181_ampharos/all/mega/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/ampharos-mega.png",
+              "sprite": "pixelmon:pokemon/181_ampharos/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/ampharos-mega.png",
+              "sprite": "pixelmon:pokemon/181_ampharos/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

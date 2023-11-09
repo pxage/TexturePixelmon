@@ -348,6 +348,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/amaura.png",
+              "sprite": "pixelmon:pokemon/698_amaura/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/698_amaura/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/698_amaura/all/base/shiny/sprite.png",

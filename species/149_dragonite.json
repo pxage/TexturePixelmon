@@ -642,6 +642,30 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/dragonite.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/dragonite.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "steampunk",
+              "texture": "dzfile:mon/steampunk/dragonite.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/dragonite.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "ashen",
               "texture": "pixelmon:pokemon/149_dragonite/all/base/ashen/texture.png",
               "emissive": "pixelmon:pokemon/149_dragonite/all/base/ashen/dragonite.png",
@@ -676,7 +700,7 @@
       },
       "eggCycles": 41,
       "weight": 210.0,
-      "catchRate": 45,
+      "catchRate": 15,
       "malePercentage": 50,
       "evolutions": [
 

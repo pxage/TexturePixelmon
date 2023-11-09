@@ -437,6 +437,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/growlithe.png",
+              "sprite": "pixelmon:pokemon/058_growlithe/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/058_growlithe/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/058_growlithe/all/base/shiny/sprite.png",
@@ -615,6 +621,12 @@
                   "pixelmon:pokemon/058_growlithe/all/hisuian/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "snowdog",
+              "texture": "dzfile:mon/n_snowdog/growlithe_hisuian.png",
+              "sprite": "pixelmon:pokemon/058_growlithe/all/hisuian/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

@@ -555,6 +555,24 @@
               ]
             },
             {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/aerodactyl.png",
+              "sprite": "pixelmon:pokemon/142_aerodactyl/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/aerodactyl.png",
+              "sprite": "pixelmon:pokemon/142_aerodactyl/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/aerodactyl.png",
+              "sprite": "pixelmon:pokemon/142_aerodactyl/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/142_aerodactyl/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/142_aerodactyl/all/base/shiny/sprite.png",
@@ -630,6 +648,24 @@
                 ],
                 "yRotation": 27
               }
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/aerodactyl-mega.png",
+              "sprite": "pixelmon:pokemon/142_aerodactyl/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/aerodactyl-mega.png",
+              "sprite": "pixelmon:pokemon/142_aerodactyl/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/aerodactyl-mega.png",
+              "sprite": "pixelmon:pokemon/142_aerodactyl/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

@@ -346,6 +346,12 @@
               "sounds": []
             },
             {
+              "name": "steampunk",
+              "texture": "dzfile:mon/steampunk/ferrothorn.png",
+              "sprite": "pixelmon:pokemon/598_ferrothorn/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/598_ferrothorn/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/598_ferrothorn/all/base/shiny/sprite.png",

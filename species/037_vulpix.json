@@ -428,6 +428,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/vulpix-normal.png",
+              "sprite": "pixelmon:pokemon/037_vulpix/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/037_vulpix/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/037_vulpix/all/base/shiny/sprite.png",
@@ -707,6 +713,12 @@
                   "pixelmon:pokemon/037_vulpix/all/alolan/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/vulpix-alolan.png",
+              "sprite": "pixelmon:pokemon/037_vulpix/all/alolan/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

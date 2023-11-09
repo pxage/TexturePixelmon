@@ -386,6 +386,12 @@
               "sounds": []
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/mightyena.png",
+              "sprite": "pixelmon:pokemon/262_mightyena/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/262_mightyena/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/262_mightyena/all/base/shiny/sprite.png",

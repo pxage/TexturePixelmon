@@ -504,6 +504,12 @@
               ]
             },
             {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/Hypno.png",
+              "sprite": "pixelmon:pokemon/097_hypno/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/097_hypno/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/097_hypno/all/base/shiny/sprite.png",

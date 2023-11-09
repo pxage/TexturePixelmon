@@ -466,6 +466,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/weavile.png",
+              "sprite": "pixelmon:pokemon/461_weavile/all/base/rainbow/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "rainbow",
               "texture": "pixelmon:pokemon/461_weavile/all/base/rainbow/texture.png",
               "sprite": "pixelmon:pokemon/461_weavile/all/base/rainbow/sprite.png",

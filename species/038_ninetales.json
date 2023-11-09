@@ -410,6 +410,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/ninetales-normal.png",
+              "sprite": "pixelmon:pokemon/038_ninetales/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/038_ninetales/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/038_ninetales/all/base/shiny/sprite.png",
@@ -651,6 +657,18 @@
                 "pixelmon.mob.ninetales.alola",
                 "pixelmon.mob.ninetales.alola"
               ]
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/ninetales-alolan.png",
+              "sprite": "pixelmon:pokemon/038_ninetales/all/alolan/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/ninetales-alolan.png",
+              "sprite": "pixelmon:pokemon/038_ninetales/all/alolan/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

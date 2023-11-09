@@ -344,6 +344,24 @@
               "texture": "pixelmon:pokemon/700_sylveon/all/base/spirit/texture.png",
               "sprite": "pixelmon:pokemon/700_sylveon/all/base/spirit/sprite.png",
               "particle": ""
+            },
+            {
+              "name": "equinox",
+              "texture": "dzfile:mon/equinox/sylveon.png",
+              "sprite": "pixelmon:pokemon/700_sylveon/all/base/spirit/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "frostbite",
+              "texture": "dzfile:mon/frostbite/sylveon.png",
+              "sprite": "pixelmon:pokemon/700_sylveon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/sylveon.png",
+              "sprite": "pixelmon:pokemon/700_sylveon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             }
           ]
         }

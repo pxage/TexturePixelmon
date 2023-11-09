@@ -390,6 +390,18 @@
               "particle": ""
             },
             {
+              "name": "equinox",
+              "texture": "dzfile:mon/equinox/eevee.png",
+              "sprite": "pixelmon:pokemon/133_eevee/all/base/spirit/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "frostbite",
+              "texture": "dzfile:mon/frostbite/eevee.png",
+              "sprite": "pixelmon:pokemon/133_eevee/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "creator",
               "texture": "pixelmon:pokemon/133_eevee/all/base/creator/texture.png",
               "sprite": "pixelmon:pokemon/133_eevee/all/base/creator/sprite.png",

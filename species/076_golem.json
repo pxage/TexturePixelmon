@@ -738,6 +738,12 @@
               }
             },
             {
+              "name": "steampunk",
+              "texture": "dzfile:mon/steampunk/golem-alola.png",
+              "sprite": "pixelmon:pokemon/076_golem/all/alolan/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/076_golem/all/alolan/shiny/texture.png",
               "sprite": "pixelmon:pokemon/076_golem/all/alolan/shiny/sprite.png",

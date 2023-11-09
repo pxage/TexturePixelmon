@@ -477,6 +477,12 @@
               ]
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/salamence.png",
+              "sprite": "pixelmon:pokemon/373_salamence/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/373_salamence/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/373_salamence/all/base/shiny/sprite.png",
@@ -515,7 +521,7 @@
       },
       "eggCycles": 41,
       "weight": 102.6,
-      "catchRate": 45,
+      "catchRate": 11,
       "malePercentage": 50,
       "evolutions": [
 
@@ -568,6 +574,12 @@
               "name": "shiny",
               "texture": "pixelmon:pokemon/373_salamence/all/mega/shiny/texture.png",
               "sprite": "pixelmon:pokemon/373_salamence/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/salamence-mega.png",
+              "sprite": "pixelmon:pokemon/373_salamence/all/mega/alter/sprite.png",
               "particle": "arcanery:shiny"
             },
             {

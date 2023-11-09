@@ -418,6 +418,12 @@
               "sounds": []
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/houndour.png",
+              "sprite": "pixelmon:pokemon/228_houndour/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/228_houndour/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/228_houndour/all/base/shiny/sprite.png",

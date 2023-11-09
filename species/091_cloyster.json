@@ -405,6 +405,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/cloyster.png",
+              "sprite": "pixelmon:pokemon/091_cloyster/all/base/valencian/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "valencian",
               "texture": "pixelmon:pokemon/091_cloyster/all/base/valencian/texture.png",
               "sprite": "pixelmon:pokemon/091_cloyster/all/base/valencian/sprite.png",

@@ -480,6 +480,12 @@
               ]
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/gliscor.png",
+              "sprite": "pixelmon:pokemon/472_gliscor/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/472_gliscor/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/472_gliscor/all/base/shiny/sprite.png",

@@ -468,6 +468,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "retro",
+              "texture": "dzfile:mon/retro/typhlosion.png",
+              "sprite": "pixelmon:pokemon/157_typhlosion/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "zombie",
               "texture": "pixelmon:pokemon/157_typhlosion/all/base/zombie/texture.png",
               "sprite": "pixelmon:pokemon/157_typhlosion/all/base/zombie/sprite.png",

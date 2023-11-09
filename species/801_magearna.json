@@ -299,6 +299,24 @@
               ]
             },
             {
+              "name": "golden",
+              "texture": "dzfile:mon/n_golden/magearna.png",
+              "sprite": "pixelmon:pokemon/801_magearna/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "steampunk",
+              "texture": "dzfile:mon/steampunk/magearna.png",
+              "sprite": "pixelmon:pokemon/801_magearna/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/magearna.png",
+              "sprite": "pixelmon:pokemon/801_magearna/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/801_magearna/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/801_magearna/all/base/shiny/sprite.png",
@@ -348,6 +366,24 @@
                   "pixelmon:pokemon/801_magearna/all/base/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "steampunk",
+              "texture": "dzfile:mon/steampunk/magearna.png",
+              "sprite": "pixelmon:pokemon/801_magearna/all/original/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "golden",
+              "texture": "dzfile:mon/n_golden/magearna.png",
+              "sprite": "pixelmon:pokemon/801_magearna/all/original/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/magearna.png",
+              "sprite": "pixelmon:pokemon/801_magearna/all/original/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

@@ -282,6 +282,12 @@
               "sounds": []
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/cinccino.png",
+              "sprite": "pixelmon:pokemon/573_cinccino/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/573_cinccino/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/573_cinccino/all/base/shiny/sprite.png",

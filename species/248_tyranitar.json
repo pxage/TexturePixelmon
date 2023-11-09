@@ -596,6 +596,36 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/tyranitar.png",
+              "sprite": "pixelmon:pokemon/248_tyranitar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/tyranitar.png",
+              "sprite": "pixelmon:pokemon/248_tyranitar/all/base/none/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cyber-shiny",
+              "texture": "dzfile:mon/cyber/tyranitarshiny.png",
+              "sprite": "pixelmon:pokemon/248_tyranitar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "shadow",
+              "texture": "dzfile:mon/shadow/tyranitar.png",
+              "sprite": "pixelmon:pokemon/248_tyranitar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/spirit/tyranitar.png",
+              "sprite": "pixelmon:pokemon/248_tyranitar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/248_tyranitar/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/248_tyranitar/all/base/shiny/sprite.png",
@@ -628,7 +658,7 @@
       },
       "eggCycles": 41,
       "weight": 255.0,
-      "catchRate": 45,
+      "catchRate": 10,
       "malePercentage": 50,
       "evolutions": [],
       "evYields": {
@@ -673,6 +703,36 @@
                   "pixelmon:pokemon/248_tyranitar/all/mega/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/spirit/tyranitar-mega.png",
+              "sprite": "pixelmon:pokemon/248_tyranitar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/tyranitar-mega.png",
+              "sprite": "pixelmon:pokemon/248_tyranitar/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "shadow",
+              "texture": "dzfile:mon/shadow/tyranitar_mega.png",
+              "sprite": "pixelmon:pokemon/248_tyranitar/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/tyranitar-mega.png",
+              "sprite": "pixelmon:pokemon/248_tyranitar/all/mega/none/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cyber-shiny",
+              "texture": "dzfile:mon/cyber/tyranitar-megashiny.png",
+              "sprite": "pixelmon:pokemon/248_tyranitar/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

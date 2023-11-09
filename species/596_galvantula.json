@@ -337,6 +337,12 @@
               ]
             },
             {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/galvantula.png",
+              "sprite": "pixelmon:pokemon/596_galvantula/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/596_galvantula/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/596_galvantula/all/base/shiny/sprite.png",

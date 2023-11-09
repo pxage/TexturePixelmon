@@ -296,6 +296,12 @@
               ]
             },
             {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/shaymin-land.png",
+              "sprite": "pixelmon:pokemon/492_shaymin/all/land/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/492_shaymin/all/land/shiny/texture.png",
               "sprite": "pixelmon:pokemon/492_shaymin/all/land/shiny/sprite.png",
@@ -597,6 +603,12 @@
             {
               "name": "shiny",
               "texture": "pixelmon:pokemon/492_shaymin/all/sky/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/492_shaymin/all/sky/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/shaymin-sky.png",
               "sprite": "pixelmon:pokemon/492_shaymin/all/sky/shiny/sprite.png",
               "particle": "arcanery:shiny"
             },

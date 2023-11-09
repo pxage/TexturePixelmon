@@ -506,6 +506,12 @@
               ]
             },
             {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/sableye.png",
+              "sprite": "pixelmon:pokemon/302_sableye/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/302_sableye/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/302_sableye/all/base/shiny/sprite.png",
@@ -516,6 +522,12 @@
               "texture": "pixelmon:pokemon/302_sableye/all/base/zombie/texture.png",
               "sprite": "pixelmon:pokemon/302_sableye/all/base/zombie/sprite.png",
               "particle": ""
+            },
+            {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/sableye.png",
+              "sprite": "pixelmon:pokemon/302_sableye/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "drowned",
@@ -596,6 +608,12 @@
               }
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/sableye-mega.png",
+              "sprite": "pixelmon:pokemon/302_sableye/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/302_sableye/all/mega/shiny/texture.png",
               "sprite": "pixelmon:pokemon/302_sableye/all/mega/shiny/sprite.png",
@@ -606,6 +624,12 @@
               "texture": "pixelmon:pokemon/302_sableye/all/mega/zombie/texture.png",
               "sprite": "pixelmon:pokemon/302_sableye/all/mega/zombie/sprite.png",
               "particle": ""
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/sableye-mega.png",
+              "sprite": "pixelmon:pokemon/302_sableye/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "drowned",

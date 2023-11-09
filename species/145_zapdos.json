@@ -517,6 +517,12 @@
               ]
             },
             {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/zapdos.png",
+              "sprite": "pixelmon:pokemon/145_zapdos/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/145_zapdos/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/145_zapdos/all/base/shiny/sprite.png",

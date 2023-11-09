@@ -596,6 +596,12 @@
               "particle": "arcanery:shiny"
             },
             {
+              "name": "frozen",
+              "texture": "dzfile:mon/frozen/snorlax.png",
+              "sprite": "pixelmon:pokemon/143_snorlax/all/base/summer/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "summer",
               "texture": "pixelmon:pokemon/143_snorlax/all/base/summer/texture.png",
               "sprite": "pixelmon:pokemon/143_snorlax/all/base/summer/sprite.png",

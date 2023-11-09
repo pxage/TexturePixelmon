@@ -491,6 +491,12 @@
               ]
             },
             {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/giratina-altered.png",
+              "sprite": "pixelmon:pokemon/487_giratina/all/altered/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/487_giratina/all/altered/shiny/texture.png",
               "sprite": "pixelmon:pokemon/487_giratina/all/altered/shiny/sprite.png",
@@ -567,6 +573,12 @@
                   "pixelmon:pokemon/487_giratina/all/origin/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/giratina-origin.png",
+              "sprite": "pixelmon:pokemon/487_giratina/all/origin/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

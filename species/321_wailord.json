@@ -403,6 +403,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/wailord.png",
+              "sprite": "pixelmon:pokemon/321_wailord/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/321_wailord/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/321_wailord/all/base/shiny/sprite.png",

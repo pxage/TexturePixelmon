@@ -485,6 +485,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/altaria.png",
+              "sprite": "pixelmon:pokemon/334_altaria/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/334_altaria/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/334_altaria/all/base/shiny/sprite.png",
@@ -574,6 +580,12 @@
                   "pixelmon:pokemon/334_altaria/all/mega/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/altaria-mega.png",
+              "sprite": "pixelmon:pokemon/334_altaria/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

@@ -502,6 +502,18 @@
               ]
             },
             {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/articuno.png",
+              "sprite": "pixelmon:pokemon/617_accelgor/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/articuno.png",
+              "sprite": "pixelmon:pokemon/617_accelgor/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/144_articuno/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/144_articuno/all/base/shiny/sprite.png",

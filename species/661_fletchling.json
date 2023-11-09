@@ -277,6 +277,12 @@
               "sounds": []
             },
             {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/fletchling.png",
+              "sprite": "pixelmon:pokemon/661_fletchling/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/661_fletchling/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/661_fletchling/all/base/shiny/sprite.png",

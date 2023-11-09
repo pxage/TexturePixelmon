@@ -290,6 +290,18 @@
               ]
             },
             {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/foongus.png",
+              "sprite": "pixelmon:pokemon/590_foongus/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/foongus.png",
+              "sprite": "pixelmon:pokemon/590_foongus/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/590_foongus/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/590_foongus/all/base/shiny/sprite.png",

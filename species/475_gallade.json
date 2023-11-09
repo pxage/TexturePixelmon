@@ -548,9 +548,27 @@
               ]
             },
             {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/gallade.png",
+              "sprite": "pixelmon:pokemon/475_gallade/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/475_gallade/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/475_gallade/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/gallade.png",
+              "sprite": "pixelmon:pokemon/475_gallade/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cybershiny",
+              "texture": "dzfile:mon/cyber/galladeshiny.png",
+              "sprite": "pixelmon:pokemon/475_gallade/all/base/strike/sprite.png",
               "particle": "arcanery:shiny"
             },
             {
@@ -629,6 +647,24 @@
                 ],
                 "yRotation": 24.2
               }
+            },
+            {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/gallade-mega.png",
+              "sprite": "pixelmon:pokemon/475_gallade/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+                "name": "cyber",
+                "texture": "dzfile:mon/cyber/gallade-mega.png",
+                "sprite": "pixelmon:pokemon/475_gallade/all/mega/shiny/sprite.png",
+                "particle": "arcanery:shiny"
+            },
+            {
+                "name": "cybershiny",
+                "texture": "dzfile:mon/cyber/gallade-megashiny.png",
+                "sprite": "pixelmon:pokemon/475_gallade/all/mega/shiny/sprite.png",
+                "particle": "arcanery:shiny"
             }
           ]
         }

@@ -99,6 +99,12 @@
               ]
             },
             {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/cosmog.png",
+              "sprite": "pixelmon:pokemon/789_cosmog/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/789_cosmog/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/789_cosmog/all/base/shiny/sprite.png",

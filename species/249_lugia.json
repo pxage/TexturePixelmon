@@ -593,6 +593,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/lugia.png",
+              "sprite": "pixelmon:pokemon/249_lugia/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/249_lugia/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/249_lugia/all/base/shiny/sprite.png",

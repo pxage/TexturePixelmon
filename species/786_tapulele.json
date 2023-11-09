@@ -355,6 +355,30 @@
               ]
             },
             {
+              "name": "summer",
+              "texture": "dzfile:mon/n_summer/tapulele.png",
+              "sprite": "pixelmon:pokemon/786_tapulele/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "soulfire",
+              "texture": "dzfile:mon/soulfire/tapulele.png",
+              "sprite": "pixelmon:pokemon/786_tapulele/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/tapulele.png",
+              "sprite": "pixelmon:pokemon/786_tapulele/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cosmic",
+              "texture": "dzfile:mon/cosmic/tapulele.png",
+              "sprite": "pixelmon:pokemon/786_tapulele/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/786_tapulele/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/786_tapulele/all/base/shiny/sprite.png",

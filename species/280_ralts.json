@@ -461,6 +461,12 @@
               ]
             },
             {
+              "name": "new_summer",
+              "texture": "dzfile:mon/n_summer/ralts.png",
+              "sprite": "pixelmon:pokemon/280_ralts/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/280_ralts/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/280_ralts/all/base/shiny/sprite.png",

@@ -296,6 +296,12 @@
               ]
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/zeraora.png",
+              "sprite": "pixelmon:pokemon/807_zeraora/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/807_zeraora/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/807_zeraora/all/base/shiny/sprite.png",

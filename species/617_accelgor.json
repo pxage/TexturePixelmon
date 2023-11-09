@@ -311,6 +311,12 @@
               "sounds": []
             },
             {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/accelgor.png",
+              "sprite": "pixelmon:pokemon/617_accelgor/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/617_accelgor/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/617_accelgor/all/base/shiny/sprite.png",

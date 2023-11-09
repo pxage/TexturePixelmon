@@ -279,6 +279,12 @@
               ]
             },
             {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/fennekin.png",
+              "sprite": "pixelmon:pokemon/653_fennekin/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/653_fennekin/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/653_fennekin/all/base/shiny/sprite.png",

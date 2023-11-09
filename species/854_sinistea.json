@@ -258,6 +258,12 @@
               }
             },
             {
+              "name": "ethereal",
+              "texture": "dzfile:mon/ethereal/sinistea-antique.png",
+              "sprite": "pixelmon:pokemon/854_sinistea/all/antique/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/854_sinistea/all/antique/shiny/texture.png",
               "sprite": "pixelmon:pokemon/854_sinistea/all/antique/shiny/sprite.png",

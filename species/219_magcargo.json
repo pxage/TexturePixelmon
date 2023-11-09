@@ -415,6 +415,12 @@
               "sounds": []
             },
             {
+              "name": "galaxy",
+              "texture": "dzfile:mon/galaxy/magcargo.png",
+              "sprite": "pixelmon:pokemon/219_magcargo/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/219_magcargo/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/219_magcargo/all/base/shiny/sprite.png",

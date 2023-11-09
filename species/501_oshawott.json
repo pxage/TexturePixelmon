@@ -307,6 +307,12 @@
               ]
             },
             {
+              "name": "new_summer",
+              "texture": "dzfile:mon/n_summer/oshawott.png",
+              "sprite": "pixelmon:pokemon/501_oshawott/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/501_oshawott/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/501_oshawott/all/base/shiny/sprite.png",

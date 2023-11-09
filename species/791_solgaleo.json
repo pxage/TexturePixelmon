@@ -362,6 +362,18 @@
               ]
             },
             {
+              "name": "nightmare",
+              "texture": "dzfile:mon/n_nightmare/Solgaleo.png",
+              "sprite": "pixelmon:pokemon/791_solgaleo/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "spirit",
+              "texture": "dzfile:mon/spirit/solgaleo.png",
+              "sprite": "pixelmon:pokemon/791_solgaleo/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/791_solgaleo/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/791_solgaleo/all/base/shiny/sprite.png",
@@ -426,6 +438,12 @@
                   "pixelmon:pokemon/791_solgaleo/all/base/none/model.pqc"
                 ]
               }
+            },
+            {
+              "name": "nightmare",
+              "texture": "pixelmon:pokemon/791_solgaleo/all/radiantsun/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/791_solgaleo/all/radiantsun/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

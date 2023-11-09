@@ -497,6 +497,24 @@
               ]
             },
             {
+              "name": "golden",
+              "texture": "dzfile:mon/n_golden/metagross.png",
+              "sprite": "pixelmon:pokemon/376_metagross/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/metagross.png",
+              "sprite": "pixelmon:pokemon/376_metagross/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/metagross.png",
+              "sprite": "pixelmon:pokemon/376_metagross/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
               "name": "shiny",
               "texture": "pixelmon:pokemon/376_metagross/all/base/shiny/texture.png",
               "sprite": "pixelmon:pokemon/376_metagross/all/base/shiny/sprite.png",
@@ -578,6 +596,24 @@
                 ],
                 "movementThreshold": 0.03
               }
+            },
+            {
+              "name": "midnight",
+              "texture": "dzfile:mon/midnight/metagross-mega.png",
+              "sprite": "pixelmon:pokemon/376_metagross/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "golden",
+              "texture": "dzfile:mon/n_golden/metagross-mega.png",
+              "sprite": "pixelmon:pokemon/376_metagross/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "cyber",
+              "texture": "dzfile:mon/cyber/metagross-mega.png",
+              "sprite": "pixelmon:pokemon/376_metagross/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
             },
             {
               "name": "shiny",

@@ -478,6 +478,18 @@
               "emissive": "pixelmon:pokemon/134_vaporeon/all/base/spirit/emissive.png",
               "sprite": "pixelmon:pokemon/134_vaporeon/all/base/spirit/sprite.png",
               "particle": ""
+            },
+            {
+              "name": "frostbite",
+              "texture": "dzfile:mon/frostbite/vaporeon.png",
+              "sprite": "pixelmon:pokemon/134_vaporeon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "equinox",
+              "texture": "dzfile:mon/equinox/vaporeon.png",
+              "sprite": "pixelmon:pokemon/134_vaporeon/all/base/spirit/sprite.png",
+              "particle": "arcanery:shiny"
             }
           ]
         }
